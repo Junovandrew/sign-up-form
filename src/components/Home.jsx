@@ -92,7 +92,6 @@ const Wrapper = styled.div`
     display: flex;
     flex-direction: column;
     z-index: -5;
-    position: absolute;
     left: 0px;
     top: 0px;
     border: 0;
