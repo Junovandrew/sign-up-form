@@ -111,6 +111,7 @@ const Wrapper = styled.div`
         filter:blur(5px);
         border: 0;
         outline: 0;
+        transform: scale(1.1);
     }
 
     & > header{
